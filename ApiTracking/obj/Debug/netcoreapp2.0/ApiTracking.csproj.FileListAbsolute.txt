@@ -1,0 +1,11 @@
+C:\@Projetos\ApiTracking\bin\Debug\netcoreapp2.0\ApiTracking.deps.json
+C:\@Projetos\ApiTracking\bin\Debug\netcoreapp2.0\ApiTracking.runtimeconfig.json
+C:\@Projetos\ApiTracking\bin\Debug\netcoreapp2.0\ApiTracking.runtimeconfig.dev.json
+C:\@Projetos\ApiTracking\bin\Debug\netcoreapp2.0\ApiTracking.dll
+C:\@Projetos\ApiTracking\bin\Debug\netcoreapp2.0\ApiTracking.pdb
+C:\@Projetos\ApiTracking\obj\Debug\netcoreapp2.0\ApiTracking.csproj.CoreCompileInputs.cache
+C:\@Projetos\ApiTracking\obj\Debug\netcoreapp2.0\ApiTracking.AssemblyInfoInputs.cache
+C:\@Projetos\ApiTracking\obj\Debug\netcoreapp2.0\ApiTracking.AssemblyInfo.cs
+C:\@Projetos\ApiTracking\obj\Debug\netcoreapp2.0\ApiTracking.dll
+C:\@Projetos\ApiTracking\obj\Debug\netcoreapp2.0\ApiTracking.pdb
+C:\@Projetos\ApiTracking\obj\Debug\netcoreapp2.0\ApiTracking.csprojAssemblyReference.cache

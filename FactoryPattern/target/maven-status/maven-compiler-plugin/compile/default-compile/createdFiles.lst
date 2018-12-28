@@ -1,0 +1,6 @@
+com/mycompany/shape/Rectangle.class
+com/mycompany/factory/ShapeFactory.class
+FactoryPatternDemo.class
+com/mycompany/shape/Shape.class
+com/mycompany/shape/Square.class
+com/mycompany/shape/Circle.class
