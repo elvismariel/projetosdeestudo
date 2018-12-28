@@ -15,3 +15,7 @@
 *.tar.gz
 *.rar
 
+/FlyweightPattern/nbproject/private/
+/FlyweightPattern/build/
+/ProxyPattern/nbproject/private/
+/ProxyPattern/build/
