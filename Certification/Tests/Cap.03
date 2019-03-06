@@ -1,0 +1,33 @@
+Ok				1. G
+Erro(A,C,D)		2. A, C
+Ok				3. B, C, E
+Ok				4. B
+Ok				5. F
+Erro(B)			6. D
+Erro(B,D,E)		7. E
+Erro(A,D,E)		8. A,C,E
+Ok				9. C
+Erro(F)			10. A
+Erro(E)			11. F
+Erro(A)			12. D
+Erro(F)			13. C
+Ok				14. A,C
+Erro(C,E,F)		15. D, E
+Erro(C)			16. F
+Ok				17. F
+Erro(A,C,D,E)	18. A, C, G
+Erro(B,C)		19. E
+Ok				20. D
+Erro(C)			21. BC
+Erro(D)			22. A
+Ok				23. A
+Erro(C)			24. A
+Erro(D)			25. E
+Erro(A,B,D)		26. B
+Ok				27. B
+Ok				28. D, F
+Erro(D)			29. E
+Ok				30. F
+Erro(B)			31. F
+Erro(E)			32. F
+Erro(B)			33. F

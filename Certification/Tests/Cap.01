@@ -1,0 +1,23 @@
+ok 			1->	a, b, e
+ok 			2-> d
+ok 			3-> b, d, e
+ok 			4-> a, b 
+ok 			5-> c, d
+ok 			6-> e
+Erro(ABC) 	7-> a
+ok 			8-> b
+ok 			9-> acde
+ok 			10-> e
+ok			11-> c, d
+Erro(G)		12-> cdf
+ok			13-> ad
+ok 			14-> b
+ok 			15-> ae
+Erro(BCD)	16-> e
+ok 			17-> ae
+Erro(CDE)	18-> c Erro por não entender corretamente a pergunta
+ok			19-> bd
+ok 			20-> be
+ok 			21-> a
+ok 			22-> be
+Erro(CD) 	23-> cdf
