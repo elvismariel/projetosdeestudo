@@ -1,0 +1,20 @@
+Erro only B		1.B, E
+Ok 				2.E
+Ok				3.A, B, D, E
+Erro C,E		4.E
+Erro A,B,E,F	5.D
+Ok				6.D
+Erro A,B,C 		7.A, C, D
+OK 				8.F
+OK				9.A
+Erro B,C,E,F	10.D,E
+Erro A,D,E		11.A,F
+Erro B			12.A
+OK				13.A
+OK				14.C
+OK				15.B
+OK				16.E
+OK				17.B
+Erro E			18.C
+Erro A,C,F 		19.A,C,D,F
+Erro A 			20.B
